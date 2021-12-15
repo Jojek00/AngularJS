@@ -1,3 +1,3 @@
 app.controller("mainCtrl", function($scope) {
-    $scope.login = "admin";
+    $scope.vin = "VIN";
 });
